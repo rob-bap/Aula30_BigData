@@ -1,0 +1,75 @@
+cisp,regiao,munic,roubo_celular,flag
+1,Capital,Rio de Janeiro,4695,Maiores
+4,Capital,Rio de Janeiro,4949,Maiores
+5,Capital,Rio de Janeiro,8770,Maiores
+9,Capital,Rio de Janeiro,5852,Maiores
+10,Capital,Rio de Janeiro,5003,Maiores
+16,Capital,Rio de Janeiro,5443,Maiores
+17,Capital,Rio de Janeiro,4527,Maiores
+18,Capital,Rio de Janeiro,7553,Maiores
+19,Capital,Rio de Janeiro,5164,Maiores
+20,Capital,Rio de Janeiro,4273,Maiores
+21,Capital,Rio de Janeiro,7243,Maiores
+22,Capital,Rio de Janeiro,5281,Maiores
+23,Capital,Rio de Janeiro,7430,Maiores
+24,Capital,Rio de Janeiro,4710,Maiores
+27,Capital,Rio de Janeiro,7938,Maiores
+28,Capital,Rio de Janeiro,4144,Maiores
+29,Capital,Rio de Janeiro,9313,Maiores
+30,Capital,Rio de Janeiro,5544,Maiores
+31,Capital,Rio de Janeiro,4472,Maiores
+32,Capital,Rio de Janeiro,6851,Maiores
+33,Capital,Rio de Janeiro,8183,Maiores
+34,Capital,Rio de Janeiro,9611,Maiores
+35,Capital,Rio de Janeiro,7201,Maiores
+38,Capital,Rio de Janeiro,5698,Maiores
+39,Capital,Rio de Janeiro,6300,Maiores
+40,Capital,Rio de Janeiro,5142,Maiores
+44,Capital,Rio de Janeiro,4805,Maiores
+52,Baixada Fluminense,Nova Iguaçu,7465,Maiores
+53,Baixada Fluminense,Mesquita,4409,Maiores
+54,Baixada Fluminense,Belford Roxo,7348,Maiores
+56,Baixada Fluminense,Nova Iguaçu,5361,Maiores
+57,Baixada Fluminense,Nilópolis,5826,Maiores
+58,Baixada Fluminense,Nova Iguaçu,7270,Maiores
+59,Baixada Fluminense,Duque de Caxias,14402,Maiores
+64,Baixada Fluminense,São João de Meriti,10791,Maiores
+72,Grande Niterói,São Gonçalo,4881,Maiores
+74,Grande Niterói,São Gonçalo,5332,Maiores
+45,Capital,Rio de Janeiro,33,Menores
+55,Baixada Fluminense,Queimados;Japeri,28,Menores
+91,Interior,Valença,35,Menores
+92,Interior,Rio das Flores,0,Menores
+94,Interior,Piraí,18,Menores
+94,Interior,Piraí;Pinheiral,1,Menores
+95,Interior,Vassouras,32,Menores
+96,Interior,Miguel Pereira;Paty dos Alferes,24,Menores
+97,Interior,Mendes,9,Menores
+98,Interior,Engenheiro Paulo de Frontin,3,Menores
+100,Interior,Porto Real;Quatis,13,Menores
+104,Interior,São José do Vale do Rio Preto,3,Menores
+107,Interior,Paraíba do Sul,27,Menores
+109,Interior,Sapucaia,5,Menores
+111,Interior,Sumidouro,2,Menores
+112,Interior,Carmo,4,Menores
+122,Interior,Conceição de Macabú,34,Menores
+135,Interior,Itaocara,17,Menores
+136,Interior,Santo Antônio de Pádua;Aperibé,23,Menores
+137,Interior,Miracema,7,Menores
+138,Interior,Laje do Muriaé,2,Menores
+139,Interior,Porciúncula,4,Menores
+140,Interior,Natividade;Varre-Sai,8,Menores
+141,Interior,São Fidélis,12,Menores
+142,Interior,Cambuci,6,Menores
+143,Interior,Itaperuna;São José de Ubá;Cardoso Moreira;Italva,10,Menores
+144,Interior,Bom Jesus de Itabapoana,22,Menores
+146,Interior,Campos dos Goytacazes;São Francisco de Itabapoana,11,Menores
+148,Interior,Cardoso Moreira;Italva,7,Menores
+152,Interior,Duas Barras,1,Menores
+153,Interior,Cantagalo,12,Menores
+154,Interior,Cordeiro;Macuco,22,Menores
+155,Interior,São Sebastião do Alto,1,Menores
+156,Interior,Santa Maria Madalena,4,Menores
+157,Interior,Trajano de Morais,1,Menores
+158,Interior,Bom Jardim,11,Menores
+168,Interior,Rio Claro,9,Menores
